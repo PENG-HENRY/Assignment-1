@@ -1,7 +1,7 @@
 # CSCI / MATH 2072U - Computational Science 1
 
 ## Assignment 1
-### Deadline:  11:59pm on January 21, 2026
+### Deadline:  11:59pm on January 22, 2026
 This assignment is aimed at introducing you to the GitHub Classroom workflow that will be used throughout the course. In addition, the assignment introduces you to the tools you’ll need to work with Python and Latex.
 
 Instructions:  Answer the following questions.  Commit and push your changes to your repository before the assignment deadline.
