@@ -1,8 +1,9 @@
-# Assignment 1 Template file
+# Assignment 1
 
-# Student Name:
-# Student ID:
-# Collaborators (if any):
+# Student Name: Henry peng
+# Student ID: 100709985
+# Collaborators (if any): n/a
 
 def HelloWorld(name):
-  # Your code goes here
+  # Return the formatted string "Hello <name>!" as required
+  return "Hello " + name + "!"
